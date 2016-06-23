@@ -4,13 +4,13 @@
  * and open the template in the editor.
  */
 
-package array;
+package kalkulatorsederhana;
 
 /**
  *
  * @author Faisal
  */
-public class Array {
+public class KalkulatorSederhana {
 
     /**
      * @param args the command line arguments
